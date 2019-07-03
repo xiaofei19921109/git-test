@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println("c1");
         System.out.println("这里是master的世界，少嚣张");
+
+        System.out.println("master!");
     }
 }
