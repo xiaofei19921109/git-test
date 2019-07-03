@@ -9,5 +9,6 @@ public class Main {
         System.out.println(2);
 
         System.out.println("c1");
+        System.out.println("新的分支哈！");
     }
 }
