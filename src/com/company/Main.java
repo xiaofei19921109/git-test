@@ -8,5 +8,6 @@ public class Main {
         System.out.println("reset head");
 
         System.out.println("11");
+        System.out.println("++");
     }
 }
